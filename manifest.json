@@ -1,0 +1,13 @@
+{
+  "name": "番茄钟",
+  "short_name": "番茄钟",
+  "description": "专注工作，高效休息",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E74C3C",
+  "theme_color": "#E74C3C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
